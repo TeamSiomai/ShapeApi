@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpShapeAPI", "cSharpShapeAPI\cSharpShapeAPI.csproj", "{A60A8852-CE02-413A-A6ED-C1B803DC7998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60A8852-CE02-413A-A6ED-C1B803DC7998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60A8852-CE02-413A-A6ED-C1B803DC7998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60A8852-CE02-413A-A6ED-C1B803DC7998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60A8852-CE02-413A-A6ED-C1B803DC7998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97FF913-A1C1-44CE-AFB0-0341B944344A}
+	EndGlobalSection
+EndGlobal
